@@ -1,4 +1,4 @@
-<h1 align="center">Olá, uu sou o Cleslley!</h1>
+<h1 align="center">Olá, eu sou o Cleslley!</h1>
 <p align="center">
   <img src="working.gif">
 </p>
