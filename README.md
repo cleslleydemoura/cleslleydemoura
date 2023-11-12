@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=printf("Hello+World+I'm+Cleslley!");)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=printf("Hello+World+I'm+Cleslley");)](https://git.io/typing-svg)
 <p align="center">
   <img src="working.gif">
 </p>
