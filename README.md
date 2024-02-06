@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=printf("Hello+World+I'm+Cleslley");)](https://git.io/typing-svg)
 <p>👨‍💻 Developer. <br>
-  📝 Linguagens: HTML, CSS, JS, PHP, C, JAVA e COBOL.</p>
   <hr>
 <p align="center">
   <img src="working.gif">
