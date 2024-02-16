@@ -1,5 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=printf("Hello+World+I'm+Cleslley");)](https://git.io/typing-svg)
-<p>👨‍💻 Developer. --- JAVA, JAVASCRIPT, PHP, C, COBOL, MySQL. <br>
+<p align="center">
+  👨‍💻 Developer <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,java,javascript,html,css,c,cpp,php"/>
+  </a>
+</p>
   <hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cleslleydemoura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
