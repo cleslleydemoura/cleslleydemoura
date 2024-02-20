@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=printf("Hello+World+I'm+Cleslley");)](https://git.io/typing-svg)
 <p align="center">
-  👨‍💻 Developer <br><br>
+  <img src="dino.gif"><br><br>
   <a href="#">
     <img src="https://skillicons.dev/icons?i=github,git,java,javascript,html,css,c,cpp,php"/>
   </a>
