@@ -2,7 +2,7 @@
 <p align="center">
   <img src="dino.gif"><br><br>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=github,git,java,py,javascript,html,css,c,cpp,php"/>
+    <img src="https://skillicons.dev/icons?i=github,git,java,mysql,py,javascript,html,css,c,cpp,php"/>
   </a>
 </p>
 <div align="center">
