@@ -1,7 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello+World+I'm+Cleslley!"))](https://git.io/typing-svg)
+<h3>Linguagens que já utilizo: </h3>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=github,git,java,mysql,py,javascript,html,css,c,postgres"/>
+    <img src="https://skillicons.dev/icons?i=github,git,mysql,py,cpp,html,css"/>
+  </a>
+</p>
+  <h3>Atualmente me especializando em:</h3>
+  <p align="center">
+    <a href="#">
+    <img src="https://skillicons.dev/icons?i=javascript,react"/>
   </a>
 </p>
 <div align="center">
