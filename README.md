@@ -10,7 +10,7 @@
 <h3>Atualmente me especializando em:</h3>
   <p align="center">
     <a href="#">
-    <img src="https://skillicons.dev/icons?i=javascript,react"/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react"/>
   </a>
 </p>
 <div align="center">
