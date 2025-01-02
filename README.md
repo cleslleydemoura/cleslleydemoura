@@ -1,16 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello+World+I'm+Cleslley!"))](https://git.io/typing-svg)
 
-<h3>Linguagens que utilizo no dia a dia: </h3>
+<h3>Linguagens, bibliotecas e grameworks que utilizo no dia a dia: </h3>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=cs,javascript,ts,mysql"/>
-  </a>
-</p>
-
-<h3>Principais bibliotecas e frameworks:</h3>
-  <p align="center">
-    <a href="#">
-    <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=cs,javascript,ts,mysql,dotnet,react,nodejs"/>
   </a>
 </p>
 
