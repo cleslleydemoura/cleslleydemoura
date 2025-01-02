@@ -1,16 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello+World+I'm+Cleslley!"))](https://git.io/typing-svg)
 
-<h3>Linguagens que já utilizo: </h3>
+<h3>Linguagens que utilizo no dia a dia: </h3>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=github,git,mysql,py,cpp,html,css"/>
+    <img src="https://skillicons.dev/icons?i=cs,javascript,ts,mysql"/>
   </a>
 </p>
 
-<h3>Atualmente me especializando em:</h3>
+<h3>Principais bibliotecas e frameworks:</h3>
   <p align="center">
     <a href="#">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react"/>
+    <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs"/>
   </a>
 </p>
 
