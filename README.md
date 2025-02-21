@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=print("Hello+World+I'm+Cleslley!"))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=console.log("Olá,+sou+o+Cleslley!"))](https://git.io/typing-svg)
 
 <h3>Linguagens, bibliotecas e frameworks que utilizo no dia a dia: </h3>
 <p align="center">
@@ -9,7 +9,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cleslleydemoura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cleslleydemoura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cleslleydemoura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cleslleydemoura&label=Profile%20views&color=blue&style=for-the-badge&abbreviated=true" alt="cleslleydemoura" /></p>
@@ -26,12 +26,12 @@ import { Languages, Frameworks } from "cleslleydemoura/skills"
 
 class Bio extends SoftwareDeveloper {
   name = "Cleslley de Moura"
-  title = "Front-end Developer"
+  title = "Developer"
   location = "Brasília, Brazil"
 }
 
 class Skills extends SoftwareDeveloper {
-  languages = ["JavaScript", "TypeScript", "Python", ...Languages]
+  languages = ["JavaScript", "TypeScript", "C#", ...Languages]
   databases = ["MySQL"]
   frameworks = ["React", "Next.js", ...Frameworks]
 }
