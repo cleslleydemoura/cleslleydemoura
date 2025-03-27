@@ -8,11 +8,10 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cleslleydemoura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cleslleydemoura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=cleslleydemoura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cleslleydemoura&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"/>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cleslleydemoura&label=Profile%20views&color=blue&style=for-the-badge&abbreviated=true" alt="cleslleydemoura" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cleslleydemoura&label=Profile%20views&color=blue&style=for-the-badge&abbreviated=true" alt="cleslleydemoura"/></p>
   <div align="center">
     <a href="https://www.youtube.com/@cleslleydemoura" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="youtube logo"  /></a>
     <a href="mailto:cleslleydemoura@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  /></a>
