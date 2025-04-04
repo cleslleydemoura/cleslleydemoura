@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4dff00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Cleslley!;Sou+Desenvolvedor+Wbe!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4dff00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Cleslley!;Sou+Desenvolvedor+Web!)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cleslleydemoura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph" />
